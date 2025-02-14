@@ -1,5 +1,4 @@
 # VIM
----
 
 ### 1.1: MOVING THE CURSOR
 
